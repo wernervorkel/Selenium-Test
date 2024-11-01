@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-26T15:16:18 BST" name="Surefire suite" finished-at="2024-10-26T15:18:02 BST" duration-ms="103420">
+    <groups>
+    </groups>
+    <test started-at="2024-10-26T15:16:18 BST" name="Surefire test" finished-at="2024-10-26T15:18:02 BST" duration-ms="103420">
+      <class name="Tests.SeleniumTest">
+        <test-method is-config="true" signature="reportSetup()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:18 BST" name="reportSetup" finished-at="2024-10-26T15:16:18 BST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:18 BST" name="Setup" finished-at="2024-10-26T15:16:22 BST" duration-ms="3411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="detailPageValidation()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:22 BST" name="detailPageValidation" finished-at="2024-10-26T15:16:28 BST" duration-ms="6033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detailPageValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:28 BST" name="tearDown" finished-at="2024-10-26T15:16:28 BST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:28 BST" name="Setup" finished-at="2024-10-26T15:16:30 BST" duration-ms="2247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="homePageValidation()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:30 BST" name="homePageValidation" finished-at="2024-10-26T15:16:33 BST" duration-ms="2387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:33 BST" name="tearDown" finished-at="2024-10-26T15:16:33 BST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:33 BST" name="Setup" finished-at="2024-10-26T15:16:35 BST" duration-ms="2262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="validateBMVDetailsAreCorrect()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:35 BST" name="validateBMVDetailsAreCorrect" finished-at="2024-10-26T15:16:40 BST" duration-ms="4830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBMVDetailsAreCorrect -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:40 BST" name="tearDown" finished-at="2024-10-26T15:16:40 BST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:40 BST" name="Setup" finished-at="2024-10-26T15:16:42 BST" duration-ms="2104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="validateBMVPriceRange()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:42 BST" name="validateBMVPriceRange" finished-at="2024-10-26T15:16:50 BST" duration-ms="7672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateBMVPriceRange -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:50 BST" name="tearDown" finished-at="2024-10-26T15:16:50 BST" duration-ms="205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:50 BST" name="Setup" finished-at="2024-10-26T15:16:52 BST" duration-ms="2261" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="validateSkodaDetailsAreCorrect()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:52 BST" name="validateSkodaDetailsAreCorrect" finished-at="2024-10-26T15:16:58 BST" duration-ms="5910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSkodaDetailsAreCorrect -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:58 BST" name="tearDown" finished-at="2024-10-26T15:16:59 BST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:16:59 BST" name="Setup" finished-at="2024-10-26T15:17:01 BST" duration-ms="2170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="validateSkodaPriceRange()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:01 BST" name="validateSkodaPriceRange" finished-at="2024-10-26T15:17:09 BST" duration-ms="8611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSkodaPriceRange -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:09 BST" name="tearDown" finished-at="2024-10-26T15:17:10 BST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:10 BST" name="Setup" finished-at="2024-10-26T15:17:12 BST" duration-ms="2288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="validateToyotaDetailsAreCorrect()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:12 BST" name="validateToyotaDetailsAreCorrect" finished-at="2024-10-26T15:17:17 BST" duration-ms="5315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateToyotaDetailsAreCorrect -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:17 BST" name="tearDown" finished-at="2024-10-26T15:17:18 BST" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:18 BST" name="Setup" finished-at="2024-10-26T15:17:20 BST" duration-ms="2817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="validateToyotaPriceRange()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:20 BST" name="validateToyotaPriceRange" finished-at="2024-10-26T15:17:30 BST" duration-ms="9238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateToyotaPriceRange -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:30 BST" name="tearDown" finished-at="2024-10-26T15:17:30 BST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:30 BST" name="Setup" finished-at="2024-10-26T15:17:32 BST" duration-ms="2205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="validateVolkswagenDetailsAreCorrect()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:32 BST" name="validateVolkswagenDetailsAreCorrect" finished-at="2024-10-26T15:17:44 BST" duration-ms="11933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateVolkswagenDetailsAreCorrect -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:44 BST" name="tearDown" finished-at="2024-10-26T15:17:44 BST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:44 BST" name="Setup" finished-at="2024-10-26T15:17:46 BST" duration-ms="2170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="validateVolkswagenPriceRange()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:17:46 BST" name="validateVolkswagenPriceRange" finished-at="2024-10-26T15:18:02 BST" duration-ms="15127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateVolkswagenPriceRange -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:18:02 BST" name="tearDown" finished-at="2024-10-26T15:18:02 BST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="reportCleanUp()[pri:0, instance:Tests.SeleniumTest@47eaca72]" started-at="2024-10-26T15:18:02 BST" name="reportCleanUp" finished-at="2024-10-26T15:18:02 BST" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportCleanUp -->
+      </class> <!-- Tests.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
