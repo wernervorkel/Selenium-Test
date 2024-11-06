@@ -14,7 +14,6 @@ import static Pages.CheckRegistrationPage.click_enter_manually;
 import static Pages.ValuationPage.validate_amount_range;
 
 public class SeleniumTest {
-    static ExtentReports report;
     static ExtentTest test;
     static ExtentReports extent = new ExtentReports();
 
